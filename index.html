@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IT Support Ticket System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>IT Support Ticket System (TypeScript)</h1>
+
+        <div class="input-section">
+            <input id="title" placeholder="Enter issue">
+            <select id="priority">
+                <option>Low</option>
+                <option>Medium</option>
+                <option>High</option>
+            </select>
+            <button onclick="addTicket()">Add Ticket</button>
+        </div>
+
+        <div class="tickets" id="tickets"></div>
+    </div>
+
+    <script src="dist/app.js"></script>
+</body>
+</html>

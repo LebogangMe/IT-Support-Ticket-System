@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.input-section {
+    margin-bottom: 20px;
+}
+
+input, select, button {
+    padding: 10px;
+    margin: 5px;
+}
+
+.tickets {
+    margin-top: 20px;
+}
+
+.ticket {
+    background: white;
+    margin: 10px auto;
+    padding: 15px;
+    width: 300px;
+    border-radius: 8px;
+    text-align: left;
+}
+
+.ticket.low {
+    border-left: 5px solid green;
+}
+
+.ticket.medium {
+    border-left: 5px solid orange;
+}
+
+.ticket.high {
+    border-left: 5px solid red;
+}
+
+.ticket button {
+    margin-right: 5px;
+    padding: 5px 10px;
+}
