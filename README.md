@@ -1,50 +1,90 @@
 
-# TypeScript
+# 🎫 Ticket Management System
 
-[![CI](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml)
-[![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)
-[![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/microsoft/TypeScript/badge)](https://securityscorecards.dev/viewer/?uri=github.com/microsoft/TypeScript)
+A web-based Ticket Management System designed to simulate a real-world IT helpdesk environment. This application allows users to create, track, and manage support tickets efficiently, demonstrating key IT support workflows and problem-solving processes.
 
+---
 
-[TypeScript](https://www.typescriptlang.org/) is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript. Try it out at the [playground](https://www.typescriptlang.org/play/), and stay up to date via [our blog](https://blogs.msdn.microsoft.com/typescript) and [Twitter account](https://twitter.com/typescript).
+## 📌 Project Overview
 
-Find others who are using TypeScript at [our community page](https://www.typescriptlang.org/community/).
+This project was built to showcase practical skills in IT support and service management. It reflects how support teams handle incidents, track issues, and ensure timely resolution in a structured way.
 
-## Installing
+The system allows users to:
+- Create support tickets
+- Track ticket status (Open, In Progress, Resolved)
+- Manage and update tickets
+- Organize issues in a structured workflow
 
-For the latest stable version:
+---
 
+## 🚀 Features
+
+- ✅ Create, update, and delete tickets  
+- ✅ Track ticket status and progress  
+- ✅ Structured ticket workflow management  
+- ✅ User-friendly interface  
+- ✅ Simulates real IT helpdesk operations  
+
+---
+
+## 🛠️ Technologies Used
+
+- JavaScript  
+- HTML5  
+- CSS3  
+
+---
+
+## 💡 Skills Demonstrated
+
+This project highlights my ability to:
+- Apply **problem-solving skills** to real-world IT scenarios  
+- Understand and simulate **helpdesk workflows**  
+- Work with **structured data and ticket tracking systems**  
+- Build functional applications using **JavaScript**  
+- Think logically and design user-focused solutions  
+
+---
+
+## 🧩 How It Relates to IT Support
+
+This project directly aligns with IT support roles by demonstrating:
+- Understanding of **incident management processes**  
+- Experience with **ticketing systems** (similar to ServiceNow, Zendesk)  
+- Ability to organize and track technical issues  
+- Awareness of **IT service workflows and user support environments**  
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
 ```bash
-npm install -D typescript
-```
+git clone https://github.com/your-username/ticket-management-system.git
+Open the project folder
+Run the application:
+Open index.html in your browser
 
-For our nightly builds:
+📸 Screenshots
 
-```bash
-npm install -D typescript@next
-```
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/18fe5454-08de-47fe-afb9-e632499e3308" />
 
-## Contribute
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/b3759e42-af13-4afa-b6c9-f59d5167a524" />
 
-There are many ways to [contribute](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md) to TypeScript.
-* [Submit bugs](https://github.com/microsoft/TypeScript/issues) and help us verify fixes as they are checked in.
-* Review the [source code changes](https://github.com/microsoft/TypeScript/pulls).
-* Engage with other TypeScript users and developers on [StackOverflow](https://stackoverflow.com/questions/tagged/typescript).
-* Help each other in the [TypeScript Community Discord](https://discord.gg/typescript).
-* Join the [#typescript](https://twitter.com/search?q=%23TypeScript) discussion on Twitter.
-* [Contribute bug fixes](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md).
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see
-the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com)
-with any additional questions or comments.
+📈 Future Improvements
+Add user authentication (login system)
+Integrate a database (e.g., MongoDB or Firebase)
+Add role-based access (Admin/User)
+Improve UI/UX design
+Implement email notifications
 
-## Documentation
+👩‍💻 Author
+Metse Eunice Leferela
+IT Graduate | Technical Support Enthusiast
 
-*  [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-*  [Programming handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-*  [Homepage](https://www.typescriptlang.org/)
+📬 Contact
+GitHub: https://github.com/LebogangMe
+Email: leboeunice295@gmail.com
 
-## Roadmap
-
-For details on our planned features and future direction, please refer to our [roadmap](https://github.com/microsoft/TypeScript/wiki/Roadmap).
+⭐ This project was created to demonstrate my readiness for Technical Support / Helpdesk roles and my ability to apply IT knowledge in practical scenarios.
