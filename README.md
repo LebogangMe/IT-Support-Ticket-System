@@ -1,5 +1,5 @@
 
-# 🎫 Ticket Management System
+# 🎫 Ticket Management System # 🎫
 
 A web-based Ticket Management System designed to simulate a real-world IT helpdesk environment. This application allows users to create, track, and manage support tickets efficiently, demonstrating key IT support workflows and problem-solving processes.
 
